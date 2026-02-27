@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1772179875
+bitmap.png::CompressedTexture2D::7639982481210528640::1772179848::1772179877::1::::<><><>0<>0<>033e416253bcc602fba4b1725a650849<>res://.godot/imported/bitmap.png-437544e2c01ddeeb1382f643e36328fc.ctex::
+House.png::CompressedTexture2D::2210087818219868875::1772179014::1772179877::1::::<><><>0<>0<>b1a6dc404e346d6ec618037ada63a19a<>res://.godot/imported/House.png-922739a43d92e18e3395ef94a0b8d751.ctex::
+icon.svg::CompressedTexture2D::1014723076460634989::1772158332::1772158341::1::::<><><>0<>0<>05ca1ddb2a39beaaeaee8f46ee5d8e25<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node_2d.tscn::PackedScene::5061032039737260429::1772175373::0::1::::<><><>0<>0<><>::uid://dg34no558elc7::::res://bitmap.png<>uid://cqvgr2h2mwlcx::::res://tile.gd
+tile.gd::GDScript::5939610889070712343::1772175370::0::1::::<>TileMapLayer<><>0<>0<><>::
+tile_map.gd::GDScript::4869786877110446058::1772173660::0::1::::<>TileMap<><>0<>0<><>::
